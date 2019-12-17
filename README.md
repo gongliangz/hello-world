@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+I am new to data sciences. Happy to join this community
